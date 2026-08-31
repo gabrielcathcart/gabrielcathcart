@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel Cathcart Araújo 👋</h1>
+<h1 align="center">Olá, eu sou o Gabriel Cathcart 👋</h1>
 
 <h3 align="center">Enfermeiro · Data Steward · Analista de Dados em Saúde</h3>
 
