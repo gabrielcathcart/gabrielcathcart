@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-cathcart" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-3842CC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:gabriel.cathcart@outlook.com">
     <img src="https://img.shields.io/badge/Email-Fale%20comigo-E05D44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/gabrielcathcart?tab=repositories" target="_blank">
