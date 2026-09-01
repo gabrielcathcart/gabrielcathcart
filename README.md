@@ -24,9 +24,9 @@ De enfermeiro de UTI e atendimento pré-hospitalar para a linha de frente dos da
 
 🩺 13 anos de experiência clínica (UTI e atendimento pré-hospitalar) antes da transição para dados <br>
 📊 Construí do zero o ecossistema de analytics institucional do hospital (Superset, OpenMetadata, Bookstack) <br>
-🧭 Atuo como Analista de Dados, migrando para Engenharia de Dados e Ciência de Dados <br>
-🏥 Foco forte em Health Analytics — indicadores assistenciais, qualidade e segurança do paciente <br>
-🌱 Aprofundando: Azure Databricks, PySpark, dbt e GCP <br>
+🧭 Atuo como Analista de Dados, aprofundando em Data Engineering e Data Science <br>
+🏥 Foco forte em Health Analytics — indicadores assistenciais, qualidade e processos hospitalares <br>
+🌱 Aprofundando: Databricks, PySpark, dbt e AWS <br>
 
 ## 🛠️ Stack técnica
 
